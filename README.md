@@ -74,9 +74,3 @@
 </a>
 
 </p>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ultras-mann/ultras-mann/snake-output/snake.svg"/>
-</div>

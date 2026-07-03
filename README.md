@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" height="170" src="https://i.imgflip.com/65efzo.gif"/>
+<img align="right" height="175" src="https://i.imgflip.com/65efzo.gif"/>
 
 ## 👨‍💻 About Me
 
@@ -48,9 +48,3 @@
 <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
----
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ultras-mann/ultras-mann/snake-output/snake.svg" alt="Snake Animation"/>
-</div>

@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif"/>
+  <img height="160" src="https://i.imgflip.com/65efzo.gif"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm <b>Ultras-mann</b></h1>
@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"/>
+<img align="right" height="170" src="https://i.imgflip.com/65efzo.gif"/>
 
 - 🎓 23 Years Old Developer
 - 📍 Based in Kampong Cham, Cambodia

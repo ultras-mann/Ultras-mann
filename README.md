@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" height="170" src="https://i.imgflip.com/65efzo.gif"/>
+<img align="right" height="190" src="https://i.imgflip.com/65efzo.gif"/>
 
 - 🎓 23 Years Old Developer
 - 📍 Based in Kampong Cham, Cambodia

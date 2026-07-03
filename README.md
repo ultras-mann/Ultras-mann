@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ultras-mann</h1>
-<h3 align="center">💻 Software Developer | 🇰🇭 Kampong Cham, Cambodia | 23 Years Old</h3>
+<h3 align="center">💻 FrontEnd Developer | Kampong Cham, Cambodia | 23 Years Old</h3>
 
 ---
 
@@ -17,8 +17,7 @@
 - 🎓 23 Years Old
 - 📍 Kampong Cham, Cambodia
 - 💻 Learning Java, Spring Boot, Docker, GitHub
-- 📱 iOS App Development
-- 🌱 Currently learning Cyber Security & Cloud Computing
+- 🌱 Currently learning Cyber Security & Network
 - 📫 Reach me on GitHub: **@ultras-mann**
 
 ---

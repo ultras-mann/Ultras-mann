@@ -8,7 +8,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Analytics
 
 <div align="center">
 
